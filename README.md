@@ -1,4 +1,4 @@
-## This code was created as an assignment for ICS4UA: AP Computer Science A.
+## This code was created as an assignment for ICS4UA: AP Computer Science.
 ### Language: Java
 ```java
 // Class is called roundFunction
